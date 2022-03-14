@@ -1,0 +1,15 @@
+cty@USER-20220211XF MINGW64 ~
+$ cd F:/
+
+cty@USER-20220211XF MINGW64 /f
+$ cd /PycharmProjects\我要学python\flask
+
+
+git config --global user.name "cty"   #设置用户名
+git config --global user.email "1286774208@qq.com"    #设置邮箱
+
+git init   #初始化
+
+nano .gitignore
+
+git remote add origin git@github.com:cty/flask.git
